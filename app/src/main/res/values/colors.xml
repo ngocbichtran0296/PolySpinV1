@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#273833</color>
+    <color name="black">#000</color>
+    <color name="lightorange">#fdf2df</color>
+    <color name="lightorangedark">#edb6ab</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="gradStart">#B8D7CF</color>
+    <color name="gradStop">#dbffff</color>
+
+    <color name="bg">#57938F</color>
+    <color name="text">#1c4c51</color>
+    1C4C51
+    0A5551
+
+</resources>
